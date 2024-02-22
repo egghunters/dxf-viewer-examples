@@ -1,2 +1,24 @@
-# x-viewer-examples
-Examples for the x-viewer SDK, which is a WebGL-based BIM model viewer built on Three.js. It is used to view DWG/DXF, glTF, OBJ models, among other file formats.
+# dxf-viewer-examples
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
