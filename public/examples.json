@@ -1,0 +1,30 @@
+[
+    {
+        "id": "dxf_0",
+        "models": [{
+            "modelId": "0",
+            "src": "/models/dxf/dxf_0.dxf"
+        }]
+    },
+    {
+        "id": "dxf_1",
+        "models": [{
+            "modelId": "1",
+            "src": "/models/dxf/dxf_1.dxf"
+        }]
+    },
+    {
+        "id": "dxf_2",
+        "models": [{
+            "modelId": "2",
+            "src": "/models/dxf/dxf_2.dxf"
+        }]
+    },
+    {
+        "id": "dxf_3",
+        "models": [{
+            "modelId": "3",
+            "src": "/models/dxf/dxf_3.dxf"
+        }]
+    }
+]
