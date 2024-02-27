@@ -1,4 +1,6 @@
 <template>
+  <link rel="stylesheet" href="iconfont/iconfont.css">
+  <link rel="stylesheet" href="iconfont/iconfont2.css">
   <nav>
     <router-link to="/">Examples</router-link> | <router-link to="/about">About</router-link>
   </nav>

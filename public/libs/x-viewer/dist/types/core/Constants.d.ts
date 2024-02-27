@@ -60,10 +60,19 @@ export declare const DefaultCameraFar = 5000;
 export declare const DefaultCameraFov = 45;
 /**
  * Iconfont class name for toolbar, bottombar, section, etc..
+ * This sdk should not provide any UI (toolbar, layoutbar, etc.), thus, it doesn't
+ * need to provide any icon either.
+ * For internal usage, we implemented some icons using iconfont. They are:
+ * - public/iconfont/iconfont.css
+ * - public/iconfont/iconfont2.css
+ * They sould be loaded by user's app, rather than in this sdk.
  * @internal
  */
-export declare const IconfontClass = "gemini-viewer-iconfont";
-export declare const IconfontClass2 = "gemini-viewer-icon";
+export declare const IconfontClass = "x-viewer-iconfont";
+/**
+ * @internal
+ */
+export declare const IconfontClass2 = "x-viewer-iconfont2";
 /**
  * @internal
  * Angle threshold at which two plane normals are parallel. Used to calculate edges.

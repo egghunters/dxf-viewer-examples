@@ -1,0 +1,238 @@
+/* Original url: https://at.alicdn.com/t/c/font_2809422_kipm6ycaet.css */
+
+@font-face {
+  font-family: "x-viewer-iconfont2";
+  src: url('iconfont2.ttf') format('truetype');
+}
+
+.x-viewer-iconfont2 {
+  font-family: "x-viewer-iconfont2" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-debug:before {
+  content: "\e61f";
+}
+
+.icon-camera:before {
+  content: "\e614";
+}
+
+.icon-loading:before {
+  content: "\e61c";
+}
+
+.icon-show:before {
+  content: "\e613";
+}
+
+.icon-hide:before {
+  content: "\e611";
+}
+
+.icon-firstperson:before {
+  content: "\e60d";
+}
+
+.icon-more:before {
+  content: "\e65f";
+}
+
+.icon-choosesectionplane-filled:before {
+  content: "\e629";
+}
+
+.icon-choosesectionplane:before {
+  content: "\e62a";
+}
+
+.icon-reset:before {
+  content: "\e626";
+}
+
+.icon-showsectionplane:before {
+  content: "\e627";
+}
+
+.icon-hidesectionplane:before {
+  content: "\e628";
+}
+
+.icon-home-filled:before {
+  content: "\e619";
+}
+
+.icon-home:before {
+  content: "\e61b";
+}
+
+.icon-settings:before {
+  content: "\e618";
+}
+
+.icon-clear:before {
+  content: "\e615";
+}
+
+.icon-viewpoint:before {
+  content: "\e616";
+}
+
+.icon-clear-filled:before {
+  content: "\e617";
+}
+
+.icon-fullscreen-filled:before {
+  content: "\e612";
+}
+
+.icon-sectionplane:before {
+  content: "\e60f";
+}
+
+.icon-sectionplane-filled:before {
+  content: "\e610";
+}
+
+.icon-settings-filled:before {
+  content: "\e60e";
+}
+
+.icon-areameasure-filled:before {
+  content: "\e60b";
+}
+
+.icon-areameasure:before {
+  content: "\e60c";
+}
+
+.icon-distancemeasure-filled:before {
+  content: "\e608";
+}
+
+.icon-distancemeasure:before {
+  content: "\e604";
+}
+
+.icon-viewpoint-filled:before {
+  content: "\e606";
+}
+
+.icon-new:before {
+  content: "\e60a";
+}
+
+.icon-clearmeasure-bak:before {
+  content: "\e661";
+}
+
+.icon-orthomode:before {
+  content: "\e660";
+}
+
+.icon-measure-filled:before {
+  content: "\e65d";
+}
+
+.icon-measure:before {
+  content: "\e65e";
+}
+
+.icon-view:before {
+  content: "\e65c";
+}
+
+.icon-bimtree-filled:before {
+  content: "\e65b";
+}
+
+.icon-bimtree:before {
+  content: "\e655";
+}
+
+.icon-orthomode-filled:before {
+  content: "\e654";
+}
+
+.icon-section:before {
+  content: "\e652";
+}
+
+.icon-section-filled:before {
+  content: "\e653";
+}
+
+.icon-info:before {
+  content: "\e651";
+}
+
+.icon-settings-bak:before {
+  content: "\e640";
+}
+
+.icon-sectionbox-filled:before {
+  content: "\e6c1";
+}
+
+.icon-property-filled:before {
+  content: "\e644";
+}
+
+.icon-info-filled:before {
+  content: "\e67d";
+}
+
+.icon-pizhu:before {
+  content: "\e64d";
+}
+
+.icon-pizhu-tianchong:before {
+  content: "\e64e";
+}
+
+.icon-view-filled:before {
+  content: "\e63c";
+}
+
+.icon-location-filled:before {
+  content: "\e63d";
+}
+
+.icon-property:before {
+  content: "\e643";
+}
+
+.icon-sectionbox:before {
+  content: "\e645";
+}
+
+.icon-fullscreen:before {
+  content: "\e658";
+}
+
+.icon-dishangxiamoshiqiehuan:before {
+  content: "\e662";
+}
+
+.icon-celiang:before {
+  content: "\e61a";
+}
+
+.icon-SAASfuben-:before {
+  content: "\e6bf";
+}
+
+.icon-SAASfuben-1:before {
+  content: "\e6c0";
+}
+
+.icon-xuanzhuan-copy:before {
+  content: "\e600";
+}
+
+.icon-move:before {
+  content: "\e61e";
+}
