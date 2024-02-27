@@ -50,6 +50,19 @@
     },
     "rules": {}
   },
+  "keywords": [
+      "webgl",
+      "threejs",
+      "three.js",
+      "dxf-viewer",
+      "javascript",
+      "typescript",
+      "vue",
+      "cad",
+      "opensource",
+      "dxf",
+      "pdf"
+  ],
   "browserslist": [
     "> 1%",
     "last 2 versions",
